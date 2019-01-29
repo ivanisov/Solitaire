@@ -1,0 +1,2 @@
+# Solitaire
+Classic Solitaire game
